@@ -1,2 +1,2 @@
-# vue-web-ready
-基于vue的web项目模板
+# vp
+基于vue的项目模板
